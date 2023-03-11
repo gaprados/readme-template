@@ -7,7 +7,7 @@
 
 
 <!-- BADGES W/ LINK (see https://shields.io/)-->
-[![Live Demo](https://img.shields.io/badge/-LIVE%20DEMO-blue?style=for-the-badge)](https://gabriel-devco.github.io/ignite-todo) &nbsp; ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp; ![React](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/-LIVE%20DEMO-blue?style=for-the-badge)](https://github.com/gaprados) &nbsp; ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp; ![React](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
 
 <!-- DESCRIPTION -->
@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut augue nec erat
 
 <!-- PREVIEW -->
 ## 🖼️ Project
-**[Live Demo](https://gabriel-devco.github.io/ignite-todo/)**
+**[Live Demo](https://github.com/gaprados)**
 <div align="center" width="100%">
 <img src=".github/preview.jpg" alt="Preview Images">
 </div>
@@ -47,7 +47,7 @@ npm run dev
 
 ## ✉️ Contact
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaprados/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gapraado/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaprados/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
 <!-- LICENSE -->
